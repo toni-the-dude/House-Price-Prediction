@@ -1,2 +1,2 @@
-# House-Price-Prediction
+# House Price Prediction
 Youtube-guided Machine Learning tutorial in Python.
