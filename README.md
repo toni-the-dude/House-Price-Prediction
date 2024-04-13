@@ -16,11 +16,17 @@ The jupyter notebook is sectioned according to the steps I have taken. My variou
 The main sections to look for within the code are:
 <ol>
   <li>Loading the dataset</li>
+  &ensp;Here we make sure the dataset gets loaded in correctly and have our first look at the columns in the dataset.
   <li>Exploring the data</li>
+  &ensp;By visualizing the data we figure out which features need adjustment whilst gaining a better understanding of their correlations.
   <li>Preprocessing the data</li>
+  &ensp;Using what we learned in the previous step, we modify features to better suit our model.
   <li>Feature engineering</li>
+  &ensp;We add extra features.
   <li>Applying the linear regression model</li>
+  &ensp;We get to finally observe how close our model can predict the "median_house_value" values using our new features.
   <li>Applying the random forest model</li>
+  &ensp;Using a different model, we attempt another, hopefully more accurate predition.
 </ol>
 
 ## Conclusion
