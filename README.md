@@ -2,7 +2,7 @@
 
 ## Overview
 
-Youtube-guided Machine Learning tutorial in Python.
+Youtube-guided Machine Learning tutorial in Python. The dataset that is being worked on is the California housing prices dataset.
 https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download
 
 ## Usage
@@ -15,3 +15,4 @@ The jupyter notebook is sectioned according to the steps I have taken. My variou
 
 ## Conclusion
 
+This is my first time seeing Random Tree Forest in action. This, alongside the rehearsal of common Data Science steps and methodologies helped me further memorize and understand the process of building such apps.
